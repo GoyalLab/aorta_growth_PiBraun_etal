@@ -14,7 +14,7 @@ Nuclei Segmentation
   
 Cell Shape Analysis
 - AutomatedQuality Check of Segmentation: cellShape/cellSize/cellSize_automatedQualityCheckCellSizes.ipynb
-- Major/minor axis and aspect ratio: cellSize/getCellSizes_downstream.ipynb
+- Major/minor axis and aspect ratio: cellShape/cellSize/getCellSizes_downstream.ipynb
 - Density of the whole stitched image: cellShape/density/cellSize_densityStitched.ipynb
 - Density of cropped images: cellShape/density/cellSize_densityTiles.ipynb
 - Density and Cell Number Along Axis: cellShape/nucleiAlongAxis/cellSize_densityNumberCellsAlongLengthAndCircumference.ipynb
