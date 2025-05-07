@@ -9,7 +9,7 @@ Directory Structure
 
 Nuclei Segmentation
 - Cellpose Segmentation
-- Nuclei counting: nuclei/cellSize_nucNumber_downstream.ipynb
+- Nuclei counting: cellShape/nuclei/cellSize_nucNumber_downstream.ipynb
 - nuclei statistics: cellShape/getNucleiStatistics/cellSize_getNucleiInformation.ipynb
   
 Cell Shape Analysis
